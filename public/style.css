@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+.loginMain{
+    width:400px;
+    background-color:#FFF;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+}
+.loginImg{
+    width:100%;
+    background-color:#F7F7F7;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+.loginImg img{
+    width: 100%;
+}
+.loginIncorrectMain{
+    width:100%;
+    background:red;
+    color:#FFF;
+}
+.loginIncorrectError{
+    margin-left:5px;
+    margin-right:5px;
+}
+.toevoegenKnop{
+    position:absolute;
+    right:55px;
+    top:25px;
+}
+
+
+.main-container{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    /* border: black 1px solid; */
+}
+.main-container a{
+    color: black;
+    text-decoration: none;
+}
+.main-container form div,select{
+    margin-bottom: 10px;
+}
+
+.verwijder-main{
+    width:400px;
+    background-color:#FFF;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+}
